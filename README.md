@@ -52,6 +52,8 @@
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhphancoder" alt="minhphancoder" /></a> </p>
 <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhphancoder&show_icons=true&locale=en&layout=compact" alt="minhphancoder" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhphancoder&show_icons=true&locale=en" alt="minhphancoder" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=minhphancoder&show_icons=true&locale=en" alt="minhphancoder" /></p>
+</div>
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhphancoder&show_icons=true&locale=en&layout=compact" alt="minhphancoder" /></p>
 </div>
