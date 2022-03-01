@@ -2,7 +2,7 @@
 <div align="center" width="50">
 <img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350"/><br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2joFaM) <br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=MinhPhanCoder&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
