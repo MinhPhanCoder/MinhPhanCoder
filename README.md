@@ -58,6 +58,6 @@
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhphancoder&show_icons=true&locale=en&layout=compact" alt="minhphancoder" /></p>
 </div>
 <div align="center">
-    <img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/MinhPhanCoder" width="800"/><br>
+    <img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/MinhPhanCoder" height="150px" width="100%"/><br>
 </div>
 
