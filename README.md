@@ -1,6 +1,6 @@
 <!--Header-->
 <div align="center" width="50">
-<img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350"/><br>
+<img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/MinhPhanCoder" alt="CoDiNg RocKs"  width="350"/><br>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2joFaM) <br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=MinhPhanCoder&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -57,3 +57,7 @@
 <div align="center">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhphancoder&show_icons=true&locale=en&layout=compact" alt="minhphancoder" /></p>
 </div>
+<div align="center">
+    <img src="https://github.com/MinhPhanCoder/MinhPhanCoder/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/MinhPhanCoder" width="800"/><br>
+</div>
+
